@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239467486423",
+    "project_id": "chatapp-55410",
+    "storage_bucket": "chatapp-55410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239467486423:android:db3a441574ea23ef13e492",
+        "android_client_info": {
+          "package_name": "com.android.chatnappsummers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhp8hO-xtxeYFQTJ0SNitTnUcDkdhrIfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
